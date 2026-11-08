@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "dataset-cron-refresh",
+  "versions": [
+    {
+      "commit": "b8b61ad2d4aa880905bdbfab57822e71d95bba19",
+      "parsed_at": "2026-11-08T02:15:49.993518+00:00",
+      "filetree": "filetree/b8b61ad2d4aa880905bdbfab57822e71d95bba19.nq.gz",
+      "blobs": [
+        "blob/c2eabecac229425be9003d3f259451381494ff1c.nq.gz",
+        "blob/f80508aa8c82787b3d82e3d5436d1e0ad9842fe9.nq.gz",
+        "blob/52d9fb4e61151cb7c458cfdbd7eddbc2c3fbb026.nq.gz",
+        "blob/9422e98b69590530f60eac2dae629cf4e772d9bf.nq.gz",
+        "blob/5944010fefdf4676434882e37cdfb800c9e99c75.nq.gz",
+        "blob/bd0c97a9cbac57e947494a8fdde06863958d2f54.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
