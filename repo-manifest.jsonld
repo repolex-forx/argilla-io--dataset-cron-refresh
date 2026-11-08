@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/dataset-cron-refresh/commit/b8b61ad2d4aa880905bdbfab57822e71d95bba19",
       "git:hexsha": "b8b61ad2d4aa880905bdbfab57822e71d95bba19",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
